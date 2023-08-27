@@ -1,0 +1,7 @@
+{
+  "browserType": "chrome",
+  "current_url": "https://buyme.co.il/",
+  "chrome_driver_patch": "C:/Users/Gabrielle/Desktop/chromedriver_win32/chromedriver.exe",
+  "firefox_driver_patch": "C:/Users/Gabrielle/Desktop/firefoxdriver_win32/firefoxdriver.exe"
+
+}

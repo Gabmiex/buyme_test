@@ -1,0 +1,14 @@
+{
+    "receivers": [
+        {
+            "name": "jeff bezos",
+            "phone_number": "0526558734",
+            "greeting": "Happy Birthday, Mr. Bezos! Wishing you continued innovation and success in the year ahead. Cheers!\n\n Gabriel"
+        },
+        {
+            "name": "elon musk",
+            "phone_number": "0537865092",
+            "greeting": "Happy Birthday, Mr. Musk! Keep reaching for the stars. Cheers!\n\n Gabriel"
+        }
+    ]
+}
